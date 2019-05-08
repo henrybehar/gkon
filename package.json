@@ -1,0 +1,9 @@
+{
+  "name": "zoomable-circle-packing",
+  "main": "zoomable-circle-packing.js",
+  "version": "156.0.0",
+  "author": {
+    "name": "Mike Bostock",
+    "url": "https://observablehq.com/@mbostock"
+  }
+}

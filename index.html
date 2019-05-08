@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Zoomable Circle Packing</title>
+<link rel="stylesheet" type="text/css" href="https://unpkg.com/@observablehq/notebook-inspector@1/dist/notebook-inspector-style.css">
+<body>
+<script type="module">
+
+import {Inspector, Runtime} from "https://unpkg.com/@observablehq/notebook-runtime@1?module"; // 
+import notebook from "./zoomable-circle-packing.js";
+
+Runtime.load(notebook, variable => {  //this is the function which extracts from the observableHQ library
+        if (variable.name === "chart") {
+            const div = document.createElement("div");
+            document.body.appendChild(div);
+            return new Inspector(div);
+        }
+    });
+
+</script>
+</body>
