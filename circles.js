@@ -78,7 +78,7 @@ export const circles =
        {"name": "Henry Chandler Cowles", "value": 1759},
        {"name": "Arthur Tansley", "value": 2165},
        {"name": "Frederic Clements", "value": 586},
-       {"name": "THeory of Climax Vegetation", "value": 3331},
+       {"name": "Theory of Climax Vegetation", "value": 3331},
        {"name": "Ecological Succession", "value": 772},
        {"name": "Gregor Mendel", "value": 3322}
       ]
