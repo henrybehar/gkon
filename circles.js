@@ -6,28 +6,28 @@ export const circles =
       "name": "Cooking",
       "children": [
        {
-        "name": "Film",
+        "name": "French Chefs",
         "children": [
-         {"name": "AgglomerativeCluster", "value": 3938},
-         {"name": "CommunityStructure", "value": 3812},
-         {"name": "HierarchicalCluster", "value": 6714},
-         {"name": "MergeEdge", "value": 743}
+         {"name": "Alain Passard", "value": 3938},
+         {"name": "Alexander Couillon", "value": 3812},
+         {"name": "Joel Rubichon", "value": 6714},
+         {"name": "Michel Troisgros", "value": 743}
         ]
        },
        {
-        "name": "graph",
+        "name": "French Cuisine (Regions)",
         "children": [
-         {"name": "BetweennessCentrality", "value": 3534},
-         {"name": "LinkDistance", "value": 5731},
-         {"name": "MaxFlowMinCut", "value": 7840},
-         {"name": "ShortestPaths", "value": 5914},
-         {"name": "SpanningTree", "value": 3416}
+         {"name": "Champagne", "value": 3534},
+         {"name": "Burgundy", "value": 5731},
+         {"name": "Parisian", "value": 7840},
+         {"name": "Corsican", "value": 5914},
+         {"name": "Bordeaux", "value": 3416}
         ]
        },
        {
-        "name": "optimization",
+        "name": "Thai Cuisine",
         "children": [
-         {"name": "AspectRatioBanker", "value": 7074}
+         {"name": "Jet Tila", "value": 7074}
         ]
        }
       ]
@@ -35,159 +35,159 @@ export const circles =
      {
       "name": "Politics",
       "children": [
-       {"name": "Easing", "value": 17010},
-       {"name": "FunctionSequence", "value": 5842},
+       {"name": "Kamala Harris", "value": 17010},
+       {"name": "Paul Ryan", "value": 5842},
        {
-        "name": "interpolate",
+        "name": "",
         "children": [
-         {"name": "ArrayInterpolator", "value": 1983},
-         {"name": "ColorInterpolator", "value": 2047},
-         {"name": "DateInterpolator", "value": 1375},
-         {"name": "Interpolator", "value": 8746},
-         {"name": "MatrixInterpolator", "value": 2202},
-         {"name": "NumberInterpolator", "value": 1382},
-         {"name": "ObjectInterpolator", "value": 1629},
-         {"name": "PointInterpolator", "value": 1675},
-         {"name": "RectangleInterpolator", "value": 2042}
+         {"name": "John Kasich", "value": 1983},
+         {"name": "Larry Hogan", "value": 2047},
+         {"name": "Bill De Blasio", "value": 1375},
+         {"name": "Joe Biden", "value": 8746},
+         {"name": "Cory Booker", "value": 2202},
+         {"name": "Kristen Gillibrand", "value": 1382},
+         {"name": "Tulsi Gabbard", "value": 1629},
+         {"name": "Elizabeth Warre ", "value": 1675},
+         {"name": "Andrew Yang", "value": 2042}
         ]
        },
-       {"name": "ISchedulable", "value": 1041},
-       {"name": "Parallel", "value": 5176},
-       {"name": "Pause", "value": 449},
-       {"name": "Scheduler", "value": 5593},
-       {"name": "Sequence", "value": 5534},
-       {"name": "Transition", "value": 9201},
-       {"name": "Transitioner", "value": 19975},
-       {"name": "TransitionEvent", "value": 1116},
-       {"name": "Tween", "value": 6006}
+       {"name": "John Kerry", "value": 1041},
+       {"name": "William Barr", "value": 5176},
+       {"name": "Howard Schultz", "value": 449},
+       {"name": "Robert Mueller", "value": 5593},
+       {"name": "Pete Buttigieg", "value": 5534},
+       {"name": "Hillary Clinton", "value": 9201},
+       {"name": "Donald Trump", "value": 19975},
+       {"name": "Beto O'Rourke", "value": 1116},
+       {"name": "Bernie Sanders", "value": 6006}
       ]
      },
      {
       "name": "Botany",
       "children": [
        {
-        "name": "converters",
+        "name": "Early Modern Botany",
         "children": [
-         {"name": "Converters", "value": 721},
-         {"name": "DelimitedTextConverter", "value": 4294},
-         {"name": "GraphMLConverter", "value": 9800},
-         {"name": "IDataConverter", "value": 1314},
-         {"name": "JSONConverter", "value": 2220}
+         {"name": "Character Pairs", "value": 721},
+         {"name": "Carl von Linne", "value": 4294},
+         {"name": "Morphology", "value": 9800},
+         {"name": "Origin Of Species by Darwin", "value": 1314},
+         {"name": "Diagnostic Keys", "value": 2220}
         ]
        },
-       {"name": "DataField", "value": 1759},
-       {"name": "DataSchema", "value": 2165},
-       {"name": "DataSet", "value": 586},
-       {"name": "DataSource", "value": 3331},
-       {"name": "DataTable", "value": 772},
-       {"name": "DataUtil", "value": 3322}
+       {"name": "Henry Chandler Cowles", "value": 1759},
+       {"name": "Arthur Tansley", "value": 2165},
+       {"name": "Frederic Clements", "value": 586},
+       {"name": "THeory of Climax Vegetation", "value": 3331},
+       {"name": "Ecological Succession", "value": 772},
+       {"name": "Gregor Mendel", "value": 3322}
       ]
      },
      {
-      "name": "Computers",
+      "name": "Coding",
       "children": [
-       {"name": "DirtySprite", "value": 8833},
-       {"name": "LineSprite", "value": 1732},
-       {"name": "RectSprite", "value": 3623},
-       {"name": "TextSprite", "value": 10066}
+       {"name": "Python", "value": 8833},
+       {"name": "JavaScript", "value": 1732},
+       {"name": "Go", "value": 3623},
+       {"name": "Rust", "value": 10066}
       ]
      },
      {
       "name": "Physics",
       "children": [
-       {"name": "DragForce", "value": 1082},
-       {"name": "GravityForce", "value": 1336},
-       {"name": "IForce", "value": 319},
-       {"name": "NBodyForce", "value": 10498},
-       {"name": "Particle", "value": 2822},
-       {"name": "Simulation", "value": 9983},
-       {"name": "Spring", "value": 2213},
-       {"name": "SpringForce", "value": 1681}
+       {"name": "Absolute Time & Space", "value": 1082},
+       {"name": "Quantum Theory", "value": 1336},
+       {"name": "Gravitation", "value": 319},
+       {"name": "Particle", "value": 10498},
+       {"name": "Particle Acceleration", "value": 2822},
+       {"name": "Theory of Relativity", "value": 9983},
+       {"name": "String", "value": 2213},
+       {"name": "String Theory", "value": 1681}
       ]
      },
      {
       "name": "Biology",
       "children": [
-       {"name": "AggregateExpression", "value": 1616},
-       {"name": "And", "value": 1027},
-       {"name": "Arithmetic", "value": 3891},
-       {"name": "Average", "value": 891},
-       {"name": "BinaryExpression", "value": 2893},
-       {"name": "Comparison", "value": 5103},
-       {"name": "CompositeExpression", "value": 3677},
-       {"name": "Count", "value": 781},
-       {"name": "DateUtil", "value": 4141},
+       {"name": "Homeostasis", "value": 1616},
+       {"name": "Theoretical Biology", "value": 1027},
+       {"name": "Al-Jahiz", "value": 3891},
+       {"name": "Physiology", "value": 891},
+       {"name": "Spermatozoa", "value": 2893},
+       {"name": "Abiogenesis", "value": 5103},
+       {"name": "Cell Theory", "value": 3677},
+       {"name": "Molecular Genetics", "value": 781},
+       {"name": "Taxonomy", "value": 4141},
        {"name": "Distinct", "value": 933},
-       {"name": "Expression", "value": 5130},
-       {"name": "ExpressionIterator", "value": 3617},
-       {"name": "Fn", "value": 3240},
-       {"name": "If", "value": 2732},
-       {"name": "IsA", "value": 2039},
-       {"name": "Literal", "value": 1214},
-       {"name": "Match", "value": 3748},
-       {"name": "Maximum", "value": 843},
+       {"name": "Genes", "value": 5130},
+       {"name": "Structure", "value": 3617},
+       {"name": "Natural Selection", "value": 3240},
+       {"name": "Domain", "value": 2732},
+       {"name": "Metabolism", "value": 2039},
+       {"name": "Egg Theory", "value": 1214},
+       {"name": "Charles Darwin", "value": 3748},
+       {"name": "Bacteria", "value": 843},
        {
-        "name": "methods",
+        "name": "Branches",
         "children": [
-         {"name": "add", "value": 593},
-         {"name": "and", "value": 330},
-         {"name": "average", "value": 287},
-         {"name": "count", "value": 277},
-         {"name": "distinct", "value": 292},
-         {"name": "div", "value": 595},
-         {"name": "eq", "value": 594},
-         {"name": "fn", "value": 460},
-         {"name": "gt", "value": 603},
-         {"name": "gte", "value": 625},
-         {"name": "iff", "value": 748},
-         {"name": "isa", "value": 461},
-         {"name": "lt", "value": 597},
-         {"name": "lte", "value": 619},
-         {"name": "max", "value": 283},
-         {"name": "min", "value": 283},
-         {"name": "mod", "value": 591},
-         {"name": "mul", "value": 603},
-         {"name": "neq", "value": 599},
-         {"name": "not", "value": 386},
-         {"name": "or", "value": 323},
-         {"name": "orderby", "value": 307},
-         {"name": "range", "value": 772},
-         {"name": "select", "value": 296},
-         {"name": "stddev", "value": 363},
-         {"name": "sub", "value": 600},
-         {"name": "sum", "value": 280},
-         {"name": "update", "value": 307},
-         {"name": "variance", "value": 335},
-         {"name": "where", "value": 299},
-         {"name": "xor", "value": 354},
-         {"name": "_", "value": 264}
+         {"name": "Anatomy", "value": 593},
+         {"name": "Comparative Anatomy", "value": 330},
+         {"name": "Histology", "value": 287},
+         {"name": "Astrobiology", "value": 277},
+         {"name": "Biochemistry", "value": 292},
+         {"name": "Biological Engineering", "value": 595},
+         {"name": "Biogeography", "value": 594},
+         {"name": "Bioinformatics", "value": 460},
+         {"name": "Biolinguistics", "value": 603},
+         {"name": "Biomechanics", "value": 625},
+         {"name": "Miomedical research", "value": 748},
+         {"name": "Biophysics", "value": 461},
+         {"name": "Biotechnology", "value": 597},
+         {"name": "Phycology", "value": 619},
+         {"name": "Astrobotany", "value": 283},
+         {"name": "Chronobiology", "value": 283},
+         {"name": "Cognitive Biology", "value": 591},
+         {"name": "Marine Biology", "value": 603},
+         {"name": "Ecology", "value": 599},
+         {"name": "Cryobiology", "value": 386},
+         {"name": "Emryology", "value": 323},
+         {"name": "Gerontology", "value": 307},
+         {"name": "Epigenetics", "value": 772},
+         {"name": "Immunology", "value": 296},
+         {"name": "Mycology", "value": 363},
+         {"name": "Parisitology", "value": 600},
+         {"name": "Virology", "value": 280},
+         {"name": "Nanobiology", "value": 307},
+         {"name": "Neuroscience", "value": 335},
+         {"name": "Psychobiology", "value": 299},
+         {"name": "Zoology", "value": 354},
+         {"name": "Ethology", "value": 264}
         ]
        },
-       {"name": "Minimum", "value": 843},
-       {"name": "Not", "value": 1554},
-       {"name": "Or", "value": 970},
-       {"name": "Query", "value": 13896},
-       {"name": "Range", "value": 1594},
-       {"name": "StringUtil", "value": 4130},
-       {"name": "Sum", "value": 791},
-       {"name": "Variable", "value": 1124},
-       {"name": "Variance", "value": 1876},
-       {"name": "Xor", "value": 1101}
+       {"name": "Entomology", "value": 843},
+       {"name": "Herpetology", "value": 1554},
+       {"name": "Ichthymology", "value": 970},
+       {"name": "Mammology", "value": 13896},
+       {"name": "Eukaryotes", "value": 1594},
+       {"name": "Ornithology", "value": 4130},
+       {"name": "Quantum Biology", "value": 791},
+       {"name": "Systems Biology", "value": 1124},
+       {"name": "Prokaryotes", "value": 1876},
+       {"name": "Membrane Theory", "value": 1101}
       ]
      },
      {
       "name": "Pets",
       "children": [
-       {"name": "Misc", "value": 2105},
-       {"name": "Misc", "value": 1316},
-       {"name": "Misc", "value": 3151},
-       {"name": "Misc", "value": 3770},
-       {"name": "Misc", "value": 2435},
-       {"name": "Misc", "value": 4839},
-       {"name": "Misc", "value": 1756},
-       {"name": "Misc", "value": 4268},
-       {"name": "Misc", "value": 1821},
-       {"name": "Misc", "value": 5833}
+       {"name": "Amphibians", "value": 2105},
+       {"name": "Misc Reptiles", "value": 1316},
+       {"name": "Goats", "value": 3151},
+       {"name": "Pigs", "value": 3770},
+       {"name": "Fish", "value": 2435},
+       {"name": "Cats", "value": 4839},
+       {"name": "Sheep", "value": 1756},
+       {"name": "Lizards", "value": 4268},
+       {"name": "Insects", "value": 1821},
+       {"name": "Dogs", "value": 5833}
       ]
      },
      {
@@ -325,11 +325,11 @@ export const circles =
           ]
          },
          {
-          "name": "Post-Structural Feminism",
+          "name": "Pre-Socratic",
           "children": [
-           {"name": "Luce Irigaray", "value": 5219},
-           {"name": "Judith Butler", "value": 3165},
-           {"name": "Helene Cixous", "value": 3509}
+           {"name": "Heraclitus", "value": 5219},
+           {"name": "Parmenides", "value": 3165},
+           {"name": "Thales", "value": 3509}
           ]
          },
          {
@@ -360,11 +360,11 @@ export const circles =
            {"name": "Rene Descartes", "value": 9191}
           ]
          },
-         {"name": "Operator", "value": 2490},
-         {"name": "OperatorList", "value": 5248},
-         {"name": "OperatorSequence", "value": 4190},
-         {"name": "OperatorSwitch", "value": 2581},
-         {"name": "SortOperator", "value": 2023}
+         {"name": "Islamic", "value": 2490},
+         {"name": "Post-Modernism", "value": 5248},
+         {"name": "Søren Kierkegaard", "value": 4190},
+         {"name": "Catholic", "value": 2581},
+         {"name": "Ralph Waldo Emerson", "value": 2023}
         ]
        },
        {"name": "Nietzsche", "value": 16540}
